@@ -1,3 +1,7 @@
+Note
+    This version differs from the original only in that the logging
+    has been mostly set to debug level to fit my needs.
+
 Name
     xss-nginx-module - Native cross-site scripting support in nginx
 
